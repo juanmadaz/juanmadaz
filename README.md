@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanmadaz
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning html, js, css
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning HTML, JavaScript, CSS, React, Git, Node.Js
 - 📫 How to reach me https://www.linkedin.com/in/juanmdavilazamora/
 
 <!---
